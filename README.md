@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hoaibao2x
-- 👀 I’m interested in ...
+- 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Javascript Basic
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👨‍💻 I’m looking to collaborate on my project
 
 <!---
 hoaibao2x/hoaibao2x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
