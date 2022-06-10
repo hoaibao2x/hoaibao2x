@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is hoaibao2x
-#### I'm Java Dev
-![I am Java Dev](https://scontent.fdad3-1.fna.fbcdn.net/v/t1.6435-9/119157668_338338597394377_3109147351391620368_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=19026a&_nc_ohc=6EPE4BYf7_AAX8Qimgd&_nc_ht=scontent.fdad3-1.fna&oh=00_AT94f1iQNYDmGzD9VnMsJ57YjPZpeppot54B3vRGutEfgQ&oe=6244FFE2)
+#### I'm Front-end Dev
+![I'm Front-end Dev](https://scontent.fdad3-1.fna.fbcdn.net/v/t1.6435-9/119157668_338338597394377_3109147351391620368_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=19026a&_nc_ohc=6EPE4BYf7_AAX8Qimgd&_nc_ht=scontent.fdad3-1.fna&oh=00_AT94f1iQNYDmGzD9VnMsJ57YjPZpeppot54B3vRGutEfgQ&oe=6244FFE2)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
