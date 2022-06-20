@@ -17,7 +17,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Bootstrap 
 - 👯 I’m looking to collaborate on My Project 
 
 
