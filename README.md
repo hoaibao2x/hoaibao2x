@@ -35,13 +35,32 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoaibao2x)](https://github.com/anuraghazra/github-readme-stats)
+<h3>:🎉 GitHub Star ✨</h3>
+                  
+  <br>
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tanit2503&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hoaibao2x" src="https://github-readme-streak-stats.herokuapp.com/?user=hoaibao2x&theme=dark&background=0d1117" />
+</td>
 
-![GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=hoaibao2x&theme=dark&background=000000)  
+<td width="50%" align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hoaibao2x)  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hoaibao2x&theme=dark&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<br>
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hoaibao2x&custom_title=Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/hoaibao2x)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hoaibao2x)  
-
