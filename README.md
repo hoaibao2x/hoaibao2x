@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/hoaibao2x)  
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="350" height="350"/>
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="350"/>
 </div>
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
