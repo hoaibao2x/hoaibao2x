@@ -5,15 +5,15 @@
   <a href="https://www.facebook.com/hoai.bao.dev/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/hbao.me/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/hoaibao2x">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div id="view_counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoaibao2x&style=for-the-badge&color=ff69b4"/>
+  <img src="https://komarev.com/ghpvc/?username=hoaibao2x&style=for-the-badge&color=blueviolet"/>
 </div>
 
 
