@@ -1,4 +1,4 @@
-### Hi there 👋,  <h3 align="center">my name is hoaibao2x</h3>
+<h1 align="center">my name is hoaibao2x</h1>
 #### I'm Front-end Dev
 
 ![Profile views](https://gpvc.arturio.dev/hoaibao2x)  
