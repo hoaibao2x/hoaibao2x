@@ -1,6 +1,5 @@
 <h1 align="center">my name is hoaibao2x</h1>
-#### I'm Front-end Dev
-
+<h3 align="center">I'm Front-end dev</h3>
 ![Profile views](https://gpvc.arturio.dev/hoaibao2x)  
 
 <div id="header" align="center">
