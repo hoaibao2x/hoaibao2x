@@ -1,5 +1,5 @@
 <h1 align="center">My name is hoaibao2x</h1>
-<h3 align="center">I'm Front-end dev</h3>
+<h3 align="center">I'm Front-End DEV</h3>
 
 <div id="social_badge" align="center">
   <a href="https://www.facebook.com/hoai.bao.dev/">
