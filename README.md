@@ -1,10 +1,11 @@
 <h1 align="center">my name is hoaibao2x</h1>
 <h3 align="center">I'm Front-end dev</h3>
-![Profile views](https://gpvc.arturio.dev/hoaibao2x)  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="350"/>
 </div>
+
+![Profile views](https://gpvc.arturio.dev/hoaibao2x)  
 
 ### Skills: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="25px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="30px"/>
