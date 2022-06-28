@@ -21,13 +21,19 @@
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="350"/>
 </div>
 
+<br>
+<br>
 
-### Skills: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="25px"/>
+<div align="center">
+  <h3>My skills</h3>📖
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px"> &nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px"> &nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="55px"> &nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px">
+</div>
 
-
-- 🌱 I’m currently learning Bootstrap 
-- 👯 I’m looking to collaborate on My Project 
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoaibao2x)](https://github.com/anuraghazra/github-readme-stats)
 
