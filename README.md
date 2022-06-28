@@ -3,11 +3,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/hoaibao2x)  
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350" height="339" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
