@@ -2,7 +2,7 @@
 <h3 align="center">I'm Front-end dev</h3>
 
 <div id="social_badge" align="center">
-  <a href="https://www.facebook.com/hoai.bao.dev/" target="_blank">
+  <a href="https://www.facebook.com/hoai.bao.dev/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/hbao.me/">
