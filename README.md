@@ -3,9 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/hoaibao2x)  
 
-<div id="header" align="center">
-  <img src="https://giphy.com/stickers/KIBERone-kiberone-kiber-kiber-one-fvx95jkua5th3YeThr" width="500"/>
-</div>
+<div style="width:100%;height:0;padding-bottom:120%;position:relative;"><iframe src="https://giphy.com/embed/fvx95jkua5th3YeThr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/KIBERone-kiberone-kiber-kiber-one-fvx95jkua5th3YeThr">via GIPHY</a></p>
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
