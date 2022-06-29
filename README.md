@@ -1,4 +1,4 @@
-<h1 align="center">My name is hoaibao2x</h1>
+<h1 align="center">My name is Hoai Bao</h1>
 <h3 align="center">I'm Front-End DEV</h3>
 
 <div id="social_badge" align="center">
