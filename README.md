@@ -1,5 +1,6 @@
 <h1 align="center">My name is Hoai Bao</h1>
-<h3 align="center">I'm Front-End DEV</h3>
+<h2 align="center">I'm Front-End DEV</h2>
+<p align="center">If you want contact with me, try one of way below 👇</p>
 
 <div id="social_badge" align="center">
   <a href="https://www.facebook.com/hoai.bao.dev/">
