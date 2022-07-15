@@ -24,6 +24,10 @@
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="350"/>
 </div>
 
+<div id="header_2" align="center">
+  <img src="https://media.giphy.com/media/rXzOY4RpSA0Ug/giphy.gif" width="350" />
+</div>
+
 <br>
 <br>
 
