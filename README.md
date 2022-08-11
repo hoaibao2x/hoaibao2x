@@ -35,10 +35,10 @@
   <h3>My skills</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px"> &nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px"> &nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50px"> &nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="55px"> &nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px"> &nbsp&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"> &nbsp&nbsp
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"> &nbsp&nbsp  
 </div>
 
 <br>
