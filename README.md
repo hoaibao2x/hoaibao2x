@@ -1,4 +1,4 @@
-<h1 align="center">/ --- My name is Hoai Bao --- /</h1>
+<h1 align="center">/ - My name is Hoai Bao - /</h1>
 <h2 align="center">I'm Front-End DEV</h2>
 <p align="center">If you want contact with me, try one of way below 👇</p>
 
