@@ -38,6 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50px"> &nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="55px"> &nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px"> &nbsp&nbsp
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)" width="50px"> &nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"> &nbsp&nbsp  
 </div>
 
