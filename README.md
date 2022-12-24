@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/hbao.me/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/hoaibao2x">
+  <a href="https://twitter.com/hoaibao2x1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
