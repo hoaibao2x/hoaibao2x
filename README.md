@@ -3,7 +3,7 @@
 <p align="center">If you want contact with me, try one of way below 👇</p>
 
 <div id="social_badge" align="center">
-  <a href="https://www.facebook.com/hoai.bao.dev/">
+  <a href="https://www.facebook.com/hoaibao2x1">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/hbao.me/">
